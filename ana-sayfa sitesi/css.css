@@ -1,0 +1,36 @@
+.merkez{
+    background-color: white;
+    width: 100%;
+    height: 950px;
+    border: 1px solid blue;
+}
+.üst{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 100px;
+    border: 1px solid cornflowerblue;
+}
+.orta{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    border: 1px solid black;
+    margin: 30px 0px;
+}
+.alt{
+    background-color: grey;
+    width: 100%;
+    height: 100px;
+    border: 1px solid grey;
+}
+.site{
+    color: black;
+    font-size: 30px;
+    margin: 25px 200px;
+    float: left;
+}
+a:hover{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
